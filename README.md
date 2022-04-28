@@ -5,4 +5,3 @@ n = your data in binary
 
 w = base (8, 16 , 32...).
 
-aa
