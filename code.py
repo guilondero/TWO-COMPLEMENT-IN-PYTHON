@@ -1,6 +1,6 @@
-# This n is your data, need be a binary (0011001...) 
+# n is your data, need be a binary (0011001...) 
 
-# This w is your base (8,16,24,32...)
+# w is your base (8,16,24,32...)
 
 def twos_complement(n, w):
     if n & (1 << (w - 1)):
